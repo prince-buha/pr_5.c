@@ -1,3 +1,32 @@
+/*
+	/*
+Enter the array's row size: 3
+Enter the array's column size: 3
+Enter array's elements:
+a[0][0] = 1
+a[0][1] = 2
+a[0][2] = 3
+a[1][0] = 4
+a[1][1] = 5
+a[1][2] = 6
+a[2][0] = 7
+a[2][1] = 8
+a[2][2] = 9
+
+Entered Matrix:
+1 2 3
+4 5 6
+7 8 9
+
+Enter the row number to find the sum: 3
+Sum of elements in row 3: 32765
+
+Enter the column number to find the sum: 3
+Sum of elements in column 3: 32776
+*/
+
+
+
 #include <stdio.h>
 
 int main() {

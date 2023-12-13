@@ -1,3 +1,25 @@
+/*
+    Enter the array's row size: 3
+Enter the array's column size: 3
+Enter array's elements:
+a[0][0] = 1
+a[0][1] = 2
+a[0][2] = 3
+a[1][0] = 4
+a[1][1] = 5
+a[1][2] = 6
+a[2][0] = 7
+a[2][1] = 8
+a[2][2] = 9
+
+Entered Matrix:
+1 2 3
+4 5 6
+7 8 9
+
+The largest element in the array is: 9
+    */
+
 #include <stdio.h>
 
 int main() {

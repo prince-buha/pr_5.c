@@ -20,7 +20,7 @@ A[4] :-5
 	*/
 
 #include<stdio.h>
-void main(){
+ main(){
 	int n;
 	printf("Enter the Array's Size: ");
 	scanf("%d",&n);
